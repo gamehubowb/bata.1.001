@@ -1,0 +1,15 @@
+body {
+    font-size: 20px;
+    color: white;
+    background-color: navy;
+}
+ h1 {
+    color: white;
+    background-color: black;
+}
+button {
+  font-size: 18px;
+  width: 180px;
+  color:black;
+  background-color: black;
+}
